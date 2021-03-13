@@ -1,6 +1,4 @@
-<div align="center">
 ![Vagrant LAMPP Stack](https://i.ibb.co/5WTFmm9/repo-cover.png "Repository Cover")
-</div>
 
 # Vagrant LAMPP
 This is a setup environment for web development. The `vagrant box` using `ubuntu/xenial64`.
