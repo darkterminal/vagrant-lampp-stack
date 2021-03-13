@@ -1,28 +1,16 @@
+<div align="center">
+![Vagrant LAMPP Stack](https://i.ibb.co/5WTFmm9/repo-cover.png "Repository Cover")
+</div>
+
 # Vagrant LAMPP
-This is a setup environment for web development. The vagrant box using ubuntu/xenial64 are contains:
+This is a setup environment for web development. The `vagrant box` using `ubuntu/xenial64`.
 
-**Git**
-
-git version 2.7.4
-
-**PHP**
-
-PHP 7.4.16 (cli) (built: Mar  5 2021 07:54:02) ( NTS )
-Copyright (c) The PHP Group
-Zend Engine v3.4.0, Copyright (c) Zend Technologies
-with Zend OPcache v7.4.16, Copyright (c), by Zend Technologies
-
-**MySQL**
-
-mysql  Ver 14.14 Distrib 5.7.33, for Linux (x86_64)
-
-**Apache2**
-
-Server version: Apache/2.4.46 (Ubuntu)
-
-**PhpMyAdmin**
-
-PhpMyAdmin 5.1.0 - English
+## Feature
+- Git version 2.7.4
+- PHP 7.4.16
+- MySQL Ver 14.14 Distrib 5.7.33, for Linux (x86_64)
+- Apache2 Server version: Apache/2.4.46 (Ubuntu)
+- PhpMyAdmin 5.1.0 - English
 
 ## System Requirements
 - VirtualBox >= 6.1
